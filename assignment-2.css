@@ -40,15 +40,21 @@
     width: 110px;
     height: 35px;
     padding: 5px;
-    background-color: rgb(250, 163, 3);
+    background-color: #ff900e;
     border: none;
     border-radius: 5px;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    padding: 5px;
 }
 .paragraph{
     margin: 0px 300px;
     text-align: center;
     padding: 15px 0px;
+    color: #727272;
     
+}
+.banner-image{
+    width: 1000px;
+    margin-bottom: 20px;
 }
