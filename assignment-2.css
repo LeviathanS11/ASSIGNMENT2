@@ -29,6 +29,9 @@
     justify-content: space-between;
     margin-top: 30px;
 }
+
+/* ..........banner-part............... */
+
 .another-flex{
     display: flex;
     justify-content: center;
@@ -45,7 +48,6 @@
     border-radius: 5px;
     color: white;
     margin-bottom: 20px;
-    padding: 5px;
 }
 .paragraph{
     margin: 0px 300px;
@@ -57,4 +59,57 @@
 .banner-image{
     width: 1000px;
     margin-bottom: 20px;
+}
+
+/* ............main........... */
+
+.main{
+    position: relative;
+    top: 840px;
+}
+.team-image{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.team-image img{
+    width: 200px;
+}
+.another-flex-1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 125px;
+}
+.section-1{
+    display: flex;
+    justify-content: center;
+    margin-left: 180px;
+    gap: 40px;
+}
+.text-color{
+    color: #727272;
+}
+.text-color-1{
+    font-weight: 700;
+    font-size: 20px;
+}
+.text-color-2{
+    color: #FF900E;
+    font-weight: 700;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.btn-1{
+    width: 110px;
+    height: 35px;
+    padding: 5px;
+    background-color: #ff900e;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+.paragraph-1{
+    padding-right: 320px;
 }
