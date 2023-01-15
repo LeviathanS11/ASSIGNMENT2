@@ -149,3 +149,28 @@
 .feature-header{
     padding-bottom: 10px;
 }
+.facts{
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.title-2{
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.facts-images{
+    position: relative;
+    top: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.facts-image{
+    width: 150px;
+    height: 120px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5px;
+}
