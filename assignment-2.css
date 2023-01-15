@@ -174,3 +174,32 @@
     padding-top: 20px;
     border-radius: 5px;
 }
+.facts-1{
+    position: relative;
+    top: 250px;
+    left: 540px;
+}
+.sponsors{
+    position: relative;
+    top: 300px;
+    left: 130px;
+}
+.sponsors-images{
+    display: flex;
+    gap: 40px;
+}
+
+/* ..........footer........ */
+.footer{
+    text-align: center;
+    position: relative;
+    height: 40px;
+    width: 1000px;
+    background-color: #FFF4E7;
+    top: 1200px;
+    left: 120px;
+}
+.paragraph-4{
+    color: #727272;
+    padding-top: 10px;
+}
